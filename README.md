@@ -20,7 +20,7 @@ This project implements a RESTful API for managing events related to shipping an
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/foodlogiq-api.git
+git clone https://github.com/bridgekeeper/trustwell-api.git
 
 cd trustwell-api
 ```
